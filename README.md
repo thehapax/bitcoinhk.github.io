@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1cf7c26-1caf-414f-9430-51af852ca46b/deploy-status)](https://app.netlify.com/sites/kind-bardeen-62c31c/deploys)
+
 # [BAHK Website](https://www.bitcoin.org.hk/)
 
 A Jekyll-flavored hosted on GitHub pages.
